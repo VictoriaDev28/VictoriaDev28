@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Django, AI & Machine Learning, cybersecurity.**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -21,4 +21,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoria&show_icons=true&locale=en" alt="victoria" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victoria&" alt="victoria" /></p> 
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victoria&" alt="victoria" /></p> -->
